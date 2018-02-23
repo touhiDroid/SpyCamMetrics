@@ -83,8 +83,8 @@ class LoggerService : IntentService("") {
             val uid = app.uid// (getListAdapter().getItem(position) as RunningAppProcessInfo).uid
 
             // Get traffic data
-            val received = TrafficStats.getTotalRxBytes()
-            val sent = TrafficStats.getTotalTxBytes()
+            val received = TrafficStats.getUidRxBytes(uid)
+            val sent = TrafficStats.getUidTxBytes(uid)
 
             val dr = received - (lastRecvNetMap[uid] ?: 0)
             val ds = sent - (lastSentNetMap[uid] ?: 0)
