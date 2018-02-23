@@ -20,8 +20,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         if (PermissionManager.requestSinglePermission(this@MainActivity,
-                Manifest.permission.WRITE_EXTERNAL_STORAGE, 101,
-                "Please grant permission to save the log-files."))
+                        Manifest.permission.WRITE_EXTERNAL_STORAGE, 101,
+                        "Please grant permission to save the log-files."))
             startLogging()
         // startService(Intent(applicationContext, LoggerService::class.java))
     }
@@ -30,8 +30,8 @@ class MainActivity : AppCompatActivity() {
         when (requestCode) {
             PERM_CODE_WRITE_STORAGE ->
                 if (grantResults.isNotEmpty() && grantResults[0] == PackageManager.PERMISSION_GRANTED)
-                // startLogging()
-                // startService(Intent(applicationContext, LoggerService::class.java))
+                    startLogging()
+        // startService(Intent(applicationContext, LoggerService::class.java))
             else -> {
             }
         }
@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
         val intent = Intent(applicationContext, LoggerService::class.java)
         val alarmIntent = PendingIntent.getService(applicationContext, 0, intent, 0)
 
-        alarmMgr.setRepeating(AlarmManager.RTC_WAKEUP, System.currentTimeMillis(),
+        alarmMgr.setRepeating(AlarmManager.RTC_WAKEUP, System.currentTimeMillis() + 100,
                 1000 * 60 * 1, alarmIntent)
     }
 
