@@ -1,13 +1,11 @@
 package com.touhidroid.spycam.dataparser
 
 import java.io.File
-import java.nio.charset.StandardCharsets
 import java.nio.file.Files
 import java.nio.file.Paths
+import java.nio.file.StandardOpenOption
 import java.util.*
 import kotlin.collections.ArrayList
-import java.nio.file.StandardOpenOption
-import java.util.Arrays
 
 
 class DataParser {
@@ -31,7 +29,8 @@ class DataParser {
         @JvmStatic
         fun main(args: Array<String>) {
             val files = File("in").listFiles()
-            for (f in files)
+            for (f in files) {
+                if (!f.name.endsWith(".csv")) continue
                 for (appPos in 0 until PACKAGE_NAMES.size) {
                     val app = PACKAGE_NAMES[appPos]
 
@@ -57,6 +56,7 @@ class DataParser {
                         }, timeStamp, app, row)
                     }
                 }
+            }
         }
 
         private fun saveInfo(targetFileName: String?, timeStamp: String, appPkg: String, dataRow: String) {
