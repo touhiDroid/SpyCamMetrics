@@ -2,32 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24c657e3-3e85-4775-8699-ab3a7c886664" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520944714094.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520945014084.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520945314088.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520945614096.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520945914088.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520946214084.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520946514092.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520946814082.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520947114097.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520947414083.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520947714084.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520948014088.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520948314085.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520948614090.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520948914094.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520949214078.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520949514087.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/network_info.csv" afterPath="$PROJECT_DIR$/network_info.csv" />
-      <change beforePath="$PROJECT_DIR$/process_info.csv" afterPath="$PROJECT_DIR$/process_info.csv" />
-      <change beforePath="$PROJECT_DIR$/src/com/touhidroid/spycam/dataparser/DataParser.kt" afterPath="$PROJECT_DIR$/src/com/touhidroid/spycam/dataparser/DataParser.kt" />
-      <change beforePath="$PROJECT_DIR$/wake_lock_info.csv" afterPath="$PROJECT_DIR$/wake_lock_info.csv" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foreground_info.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/in/adbBatStats_Nexus6_1521277480872.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/in/adbBatStats_Nexus6_1521277780279.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/in/adbBatStats_Nexus6_1521278080278.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/in/adbBatStats_Nexus6_1521278380279.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/in/adbBatStats_Nexus6_1521278680279.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/in/adbBatStats_Nexus6_1521278980263.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/in/adbBatStats_Nexus6_1521279280280.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/in/adbBatStats_Nexus6_1521279580280.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/in/adbBatStats_Nexus6_1521279880263.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/in/adbBatStats_Nexus6_1521280180279.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/in/adbBatStats_Nexus6_1521280480279.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/in/adbBatStats_Nexus6_1521280780290.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/in/adbBatStats_Nexus6_1521281080279.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/in/adbBatStats_Nexus6_1521281380280.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/in/adbBatStats_Nexus6_1521281680264.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/in/adbBatStats_Nexus6_1521281980276.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/in/adbBatStats_Nexus6_1521282280263.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/in/adbBatStats_Nexus6_1521282580266.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/in/adbBatStats_Nexus6_1521282880273.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_info.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataParser/com/touhidroid/spycam/dataparser/DataParser$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataParser/com/touhidroid/spycam/dataparser/DataParser$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataParser/com/touhidroid/spycam/dataparser/DataParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataParser/com/touhidroid/spycam/dataparser/DataParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_info.csv" beforeDir="false" afterPath="$PROJECT_DIR$/process_info.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/touhidroid/spycam/dataparser/DataParser.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/touhidroid/spycam/dataparser/DataParser.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wake_lock_info.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wake_lock_info.csv" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,44 +42,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DataParser.kt" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/touhidroid/spycam/dataparser/DataParser.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <element signature="e#42#275#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="adbBatStats_Nexus6_1521280180279.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/in/adbBatStats_Nexus6_1521280180279.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="1659" column="28" lean-forward="false" selection-start-line="1659" selection-start-column="22" selection-end-line="1659" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="adbBatStats_Nexus6_1521281080279.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/in/adbBatStats_Nexus6_1521281080279.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1932">
-              <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="adbBatStats_Nexus6_1521282880273.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/in/adbBatStats_Nexus6_1521282880273.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="1690" column="7" lean-forward="false" selection-start-line="1690" selection-start-column="2" selection-end-line="1690" selection-end-column="7" />
-              <folding />
+            <state relative-caret-position="66">
+              <caret line="52" column="49" lean-forward="true" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -108,11 +82,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -120,13 +89,7 @@
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="841" />
     <option name="y" value="617" />
     <option name="width" value="615" />
@@ -136,26 +99,44 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="DataParser" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DataParser" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="DataParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataParser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataParser" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataParser" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataParser" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
               <item name="DataParser" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -167,8 +148,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -188,9 +167,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546524078031" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -206,49 +189,26 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
+    <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="com.touhidroid.spycam.dataparser.DataParser" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <configuration name="com.touhidroid.spycam.dataparser.DataParser" type="JetRunConfigurationType" factoryName="Kotlin" nameIsGenerated="true">
+      <module name="DataParser" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -256,57 +216,27 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.touhidroid.spycam.dataparser.DataParser" />
       <option name="WORKING_DIRECTORY" />
-      <module name="DataParser" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
+    <configuration default="true" type="TestNG">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.com.touhidroid.spycam.dataparser.DataParser" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -322,245 +252,72 @@
       <workItem from="1521131367378" duration="3838000" />
       <workItem from="1521137729309" duration="5211000" />
       <workItem from="1521277308295" duration="3114000" />
+      <workItem from="1546521484705" duration="454000" />
+      <workItem from="1546521958248" duration="2052000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13962000" />
+    <option name="totallyTimeSpent" value="16468000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1543" height="916" extended-state="7" />
+    <frame x="-8" y="-8" width="1863" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33846155" sideWeight="0.5023601" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32820514" sideWeight="0.49763992" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2602832" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26622295" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3281412" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5023601" side_tool="true" weight="0.33846155" />
+      <window_info anchor="bottom" id="Messages" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49763992" weight="0.32820514" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/touhidroid/spycam/dataparser/DataParser.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2184">
-          <caret line="111" column="3" lean-forward="false" selection-start-line="111" selection-start-column="3" selection-end-line="111" selection-end-column="3" />
-          <folding>
-            <element signature="e#42#275#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wake_lock_info.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/process_info.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="72" lean-forward="true" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/network_info.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="50" lean-forward="false" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520945614096.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6552">
-          <caret line="312" column="9" lean-forward="false" selection-start-line="312" selection-start-column="5" selection-end-line="312" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520945314088.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75117">
-          <caret line="3577" column="0" lean-forward="false" selection-start-line="3577" selection-start-column="0" selection-end-line="3577" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520949514087.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12936">
-          <caret line="616" column="9" lean-forward="false" selection-start-line="616" selection-start-column="5" selection-end-line="616" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520944714094.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42756">
-          <caret line="2036" column="13" lean-forward="false" selection-start-line="2036" selection-start-column="2" selection-end-line="2036" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520948614090.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6846">
-          <caret line="326" column="9" lean-forward="false" selection-start-line="326" selection-start-column="5" selection-end-line="326" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/touhidroid/spycam/dataparser/DataParser.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#42#275#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520944414076.csv" />
-    <entry file="file://$PROJECT_DIR$/src/com/touhidroid/spycam/dataparser/DataParser.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#42#275#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520944414076.csv" />
-    <entry file="file://$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520945314088.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="3577" column="0" lean-forward="false" selection-start-line="3577" selection-start-column="0" selection-end-line="3577" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520949514087.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12936">
-          <caret line="616" column="9" lean-forward="false" selection-start-line="616" selection-start-column="5" selection-end-line="616" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520944714094.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42756">
-          <caret line="2036" column="13" lean-forward="false" selection-start-line="2036" selection-start-column="2" selection-end-line="2036" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520945614096.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="312" column="9" lean-forward="false" selection-start-line="312" selection-start-column="5" selection-end-line="312" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520948614090.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="326" column="9" lean-forward="false" selection-start-line="326" selection-start-column="5" selection-end-line="326" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foreground_info.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520945314088.csv" />
+    <entry file="file://$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520949514087.csv" />
+    <entry file="file://$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520944714094.csv" />
+    <entry file="file://$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520945614096.csv" />
+    <entry file="file://$PROJECT_DIR$/in/adbBatStats_lenovoTab_1520948614090.csv" />
     <entry file="file://$PROJECT_DIR$/network_info.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="56" column="14" lean-forward="false" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="31" />
+          <caret line="56" column="14" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="31" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/in/adbBatStats_Nexus6_1521280180279.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="1659" column="28" lean-forward="false" selection-start-line="1659" selection-start-column="22" selection-end-line="1659" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/in/adbBatStats_Nexus6_1521281080279.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1932">
-          <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/in/adbBatStats_Nexus6_1521282880273.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="1690" column="7" lean-forward="false" selection-start-line="1690" selection-start-column="2" selection-end-line="1690" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/touhidroid/spycam/dataparser/DataParser.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#42#275#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wake_lock_info.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-37427">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -568,15 +325,136 @@
     <entry file="file://$PROJECT_DIR$/process_info.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="772">
-          <caret line="199" column="67" lean-forward="false" selection-start-line="199" selection-start-column="67" selection-end-line="199" selection-end-column="67" />
+          <caret line="199" column="67" selection-start-line="199" selection-start-column="67" selection-end-line="199" selection-end-column="67" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/in/adbBatStats_Nexus6_1521280180279.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36498">
+          <caret line="1659" column="28" selection-start-line="1659" selection-start-column="22" selection-end-line="1659" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/in/adbBatStats_Nexus6_1521281080279.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/in/adbBatStats_Nexus6_1521282880273.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37180">
+          <caret line="1690" column="7" selection-start-line="1690" selection-start-column="2" selection-end-line="1690" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../Android/android-studio/jre/jre/lib/rt.jar!/java/nio/file/Paths.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreground_info.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/touhidroid/spycam/dataparser/DataParser.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="52" column="49" lean-forward="true" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="49" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DataParser</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>KotlinJavaRuntime</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">

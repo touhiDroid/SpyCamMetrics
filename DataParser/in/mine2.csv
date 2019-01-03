@@ -1,0 +1,440 @@
+9,0,i,vers,32,177,PPR1.180610.011,PPR1.180610.011
+9,0,i,uid,1000,com.lge.SprintHiddenMenu
+9,0,i,uid,1000,android
+9,0,i,uid,1000,com.android.providers.settings
+9,0,i,uid,1000,com.android.inputdevices
+9,0,i,uid,1000,com.android.server.telecom
+9,0,i,uid,1000,com.android.keychain
+9,0,i,uid,1000,com.android.settings
+9,0,i,uid,1000,com.android.wallpaperbackup
+9,0,i,uid,1000,com.android.location.fused
+9,0,i,uid,1001,com.android.providers.telephony
+9,0,i,uid,1001,com.qualcomm.shutdownlistner
+9,0,i,uid,1001,com.android.mms.service
+9,0,i,uid,1001,com.qualcomm.qcrilmsgtunnel
+9,0,i,uid,1001,com.redbend.vdmc
+9,0,i,uid,1001,com.android.phone
+9,0,i,uid,1027,com.android.nfc
+9,0,i,uid,1068,com.android.se
+9,0,i,uid,2000,com.android.shell
+9,0,i,uid,10011,com.android.packageinstaller
+9,0,i,uid,10014,com.android.calllogbackup
+9,0,i,uid,10014,com.android.providers.blockednumber
+9,0,i,uid,10014,com.android.providers.userdictionary
+9,0,i,uid,10014,com.android.providers.contacts
+9,0,i,uid,10015,com.android.providers.media
+9,0,i,uid,10015,com.android.providers.downloads
+9,0,i,uid,10015,com.android.providers.downloads.ui
+9,0,i,uid,10015,com.android.mtp
+9,0,i,uid,10016,com.android.launcher3
+9,0,i,uid,10018,com.android.externalstorage
+9,0,i,uid,10021,com.android.systemui
+9,0,i,uid,10022,com.google.android.partnersetup
+9,0,i,uid,10024,com.google.android.gms
+9,0,i,uid,10024,com.google.android.gsf
+9,0,i,uid,10024,com.google.android.backuptransport
+9,0,i,uid,10031,com.google.android.apps.wellbeing
+9,0,i,uid,10033,com.android.vending
+9,0,i,uid,10040,com.android.documentsui
+9,0,i,uid,10042,com.google.android.apps.nexuslauncher
+9,0,i,uid,10048,com.android.smspush
+9,0,i,uid,10061,com.google.android.inputmethod.latin
+9,0,i,uid,10065,com.google.android.marvin.talkback
+9,0,i,uid,10073,com.beint.zangi
+9,0,i,uid,10074,com.advancedprocessmanager
+9,0,i,uid,10075,com.touhidroid.spycammetrics
+9,0,i,uid,10077,com.imo.android.imoim
+9,0,i,uid,10079,com.dbbl.nexus.pay
+9,0,i,uid,10082,com.android.chrome
+9,0,i,uid,10087,com.google.android.dialer
+9,0,i,uid,10091,com.facebook.orca
+9,0,i,uid,10094,com.facebook.katana
+9,0,i,uid,10095,com.viber.voip
+9,0,i,uid,10100,com.google.android.apps.docs
+9,0,i,uid,10102,com.zoho.mail
+9,0,i,uid,10108,com.google.android.GoogleCamera
+9,0,i,uid,10121,ridmik.keyboard
+9,0,i,uid,10123,com.brilliant.connect.com.bd
+9,0,i,uid,10132,com.durbinlabs.ducomm.link3
+9,0,l,bt,0,1347,1347,4707041,4707041,1546515422374,0,0,3450,0,0,0
+9,0,l,gn,0,0,0,0,0,0,0,0,0,0
+9,0,l,gwfl,1347,1347,0,0,0
+9,0,l,m,1347,0,0,0,0,0,1347,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+9,0,l,br,1347,0,0,0,0
+9,0,l,sgt,0,0,0,0,1347
+9,0,l,sst,0
+9,0,l,sgc,0,0,0,0,0
+9,0,l,dct,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1347,0,0,0,0,0
+9,0,l,dcc,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,0,l,wst,0,0,0,0,1347,0,0,0
+9,0,l,wsc,0,0,0,0,0,0,0,0
+9,0,l,wsst,0,0,0,0,0,0,0,0,0,0,1347,0,0
+9,0,l,wssc,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,0,l,wsgt,0,0,0,1347,0
+9,0,l,wsgc,0,0,0,0,0
+9,0,l,wmct,0,0
+9,0,l,dc,0,0,0,0,0,0,0,0,0,0
+9,0,l,kwl,"f99d8000.msm_tspp",0,0,-1,-1
+9,0,l,kwl,"wlan_wake   ",0,0,-1,-1
+9,0,l,kwl,"ipc00000028_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"qpnp-rtc-16 ",0,0,-1,-1
+9,0,l,kwl,"ipc0000008b_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc0000003b_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"smdcntl1    ",0,0,-1,-1
+9,0,l,kwl,"pil-modem   ",0,0,-1,-1
+9,0,l,kwl,"event5-715  ",0,0,-1,-1
+9,0,l,kwl,"wlan_rx_wake",0,0,-1,-1
+9,0,l,kwl,"ipc00000093_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"qmi0        ",0,0,-1,-1
+9,0,l,kwl,"qpnp-power-on-7",0,0,-1,-1
+9,0,l,kwl,"ipc00000039_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"bam_dmux_wakelock",0,0,-1,-1
+9,0,l,kwl,"qcril       ",0,0,-1,-1
+9,0,l,kwl,"icl_wake_lock",0,0,-1,-1
+9,0,l,kwl,"ipc00000089_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc000000a3_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"bluesleep   ",0,0,-1,-1
+9,0,l,kwl,"ipc0000009c_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc0000009d_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"radio-interface",0,0,-1,-1
+9,0,l,kwl,"ipc00000032_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc00000031_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc_rtr_smd_ipcrtr",0,0,-1,-1
+9,0,l,kwl,"ipc00000029_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc0000008a_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc00000027_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc00000001_kworker/2:1",0,0,-1,-1
+9,0,l,kwl,"ipc0000008c_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"mmc0        ",0,0,-1,-1
+9,0,l,kwl,"ipc00000018_rild",0,0,-1,-1
+9,0,l,kwl,"PowerManagerService.WakeLocks",0,0,-1,-1
+9,0,l,kwl,"qpnp-vadc-17",0,0,-1,-1
+9,0,l,kwl,"touch       ",0,0,-1,-1
+9,0,l,kwl,"rmt_storage_-1333806736",0,0,-1,-1
+9,0,l,kwl,"ipc00000017_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc0000002b_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ac          ",0,0,-1,-1
+9,0,l,kwl,"smdcntl4    ",0,0,-1,-1
+9,0,l,kwl,"ipc000000aa_android.bg",0,0,-1,-1
+9,0,l,kwl,"ipc0000000e_thermal-engine-",0,0,-1,-1
+9,0,l,kwl,"mmc1_detect ",0,0,-1,-1
+9,0,l,kwl,"ipc0000001e_time_daemon",0,0,-1,-1
+9,0,l,kwl,"smdcntl0    ",0,0,-1,-1
+9,0,l,kwl,"qmuxd_port_wl_3",0,0,-1,-1
+9,0,l,kwl,"qmuxd_port_wl_2",0,0,-1,-1
+9,0,l,kwl,"qmuxd_port_wl_5",0,0,-1,-1
+9,0,l,kwl,"qmuxd_port_wl_4",0,0,-1,-1
+9,0,l,kwl,"qmuxd_port_wl_1",0,0,-1,-1
+9,0,l,kwl,"qmuxd_port_wl_0",0,0,-1,-1
+9,0,l,kwl,"ipc00000006_thermal-engine-",0,0,-1,-1
+9,0,l,kwl,"smsm_snapshot",0,0,-1,-1
+9,0,l,kwl,"ipc00000020_thermal-engine-",0,0,-1,-1
+9,0,l,kwl,"qpnp-charger-13",0,0,-1,-1
+9,0,l,kwl,"gpio_keys.84",0,0,-1,-1
+9,0,l,kwl,"qmuxd_port_wl_7",0,0,-1,-1
+9,0,l,kwl,"bq24192     ",0,0,-1,-1
+9,0,l,kwl,"qmuxd_port_wl_6",0,0,-1,-1
+9,0,l,kwl,"ipc000000a0_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc00000037_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"qmi2        ",0,0,-1,-1
+9,0,l,kwl,"ipc0000000d_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc000000ae_Thread-4",0,0,-1,-1
+9,0,l,kwl,"ipc000000a5_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc000000af_Thread-4",0,0,-1,-1
+9,0,l,kwl,"ipc000000a4_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"wlan_wd_wake",0,0,-1,-1
+9,0,l,kwl,"bq24192irq  ",0,0,-1,-1
+9,0,l,kwl,"ipc0000009b_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc00000033_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc0000009f_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"max17048_alert",0,0,-1,-1
+9,0,l,kwl,"ipc0000001c_rild",0,0,-1,-1
+9,0,l,kwl,"event4-715  ",0,0,-1,-1
+9,0,l,kwl,"ipc00000098_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc000000b1_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"smdcntl5    ",0,0,-1,-1
+9,0,l,kwl,"ssr(adsp)   ",0,0,-1,-1
+9,0,l,kwl,"ipc00000090_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc0000003a_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc0000003e_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"msm_tsens_lock",0,0,-1,-1
+9,0,l,kwl,"ssr(modem)  ",0,0,-1,-1
+9,0,l,kwl,"ipc00000094_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"msm_dwc3    ",0,0,-1,-1
+9,0,l,kwl,"ear_hook    ",0,0,-1,-1
+9,0,l,kwl,"ipc0000002e_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc0000002a_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"batt_tm_wake_lock",0,0,-1,-1
+9,0,l,kwl,"ipc00000019_rild",0,0,-1,-1
+9,0,l,kwl,"pil-venus   ",0,0,-1,-1
+9,0,l,kwl,"ipc00000097_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc000000b0_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc0000008f_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc00000024_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"wireless    ",0,0,-1,-1
+9,0,l,kwl,"eventpoll   ",0,0,-1,-1
+9,0,l,kwl,"ipc000000a6_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc00000036_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc00000035_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"alarmtimer  ",0,0,-1,-1
+9,0,l,kwl,"ipc0000000f_thermal-engine-",0,0,-1,-1
+9,0,l,kwl,"ipc00000021_thermal-engine-",0,0,-1,-1
+9,0,l,kwl,"batt_therm  ",0,0,-1,-1
+9,0,l,kwl,"ipc00000003_rmt_storage",0,0,-1,-1
+9,0,l,kwl,"ipc_rtr_q6_ipcrtr",0,0,-1,-1
+9,0,l,kwl,"wlan_ctrl_wake",0,0,-1,-1
+9,0,l,kwl,"ssr(venus)  ",0,0,-1,-1
+9,0,l,kwl,"ipc00000004_rmt_storage",0,0,-1,-1
+9,0,l,kwl,"slimport_wake_lock",0,0,-1,-1
+9,0,l,kwl,"PowerManagerService.Display",0,0,-1,-1
+9,0,l,kwl,"ipc0000008e_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc00000023_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"smdcntl6    ",0,0,-1,-1
+9,0,l,kwl,"ipc000000ab_android.bg",0,0,-1,-1
+9,0,l,kwl,"event3-715  ",0,0,-1,-1
+9,0,l,kwl,"qmi1        ",0,0,-1,-1
+9,0,l,kwl,"PowerManagerService.Broadcasts",0,0,-1,-1
+9,0,l,kwl,"ipc00000040_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"qpnp-iadc-18",0,0,-1,-1
+9,0,l,kwl,"msm_serial_hs_dma",0,0,-1,-1
+9,0,l,kwl,"smdcntl2    ",0,0,-1,-1
+9,0,l,kwl,"ipc0000001b_rild",0,0,-1,-1
+9,0,l,kwl,"ipc0000003f_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"event2-715  ",0,0,-1,-1
+9,0,l,kwl,"ipc0000002f_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc00000010_time_daemon",0,0,-1,-1
+9,0,l,kwl,"ipc00000011_time_daemon",0,0,-1,-1
+9,0,l,kwl,"ipc00000005_thermal-engine-",0,0,-1,-1
+9,0,l,kwl,"rmt_storage_-1332766352",0,0,-1,-1
+9,0,l,kwl,"ipc00000012_time_daemon",0,0,-1,-1
+9,0,l,kwl,"ipc0000002d_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc00000013_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"NFCWAKE     ",0,0,-1,-1
+9,0,l,kwl,"ipc0000001d_time_daemon",0,0,-1,-1
+9,0,l,kwl,"event1-715  ",0,0,-1,-1
+9,0,l,kwl,"ipc00000091_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"[timerfd]   ",0,0,-1,-1
+9,0,l,kwl,"ipc00000099_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc0000008d_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc000000a9_android.bg",0,0,-1,-1
+9,0,l,kwl,"ipc0000003d_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc00000095_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"smdcntl7    ",0,0,-1,-1
+9,0,l,kwl,"msm_serial_hs_rx",0,0,-1,-1
+9,0,l,kwl,"ipc00000038_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc0000000c_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc00000034_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"battery     ",0,0,-1,-1
+9,0,l,kwl,"KeyEvents   ",0,0,-1,-1
+9,0,l,kwl,"SensorService_wakelock",0,0,-1,-1
+9,0,l,kwl,"autosleep   ",0,0,-1,-1
+9,0,l,kwl,"ipc0000009e_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc00000030_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"extra_chg_lock",0,0,-1,-1
+9,0,l,kwl,"mmc0:0001   ",0,0,-1,-1
+9,0,l,kwl,"mmc0_detect ",0,0,-1,-1
+9,0,l,kwl,"ipc00000096_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc00000022_thermal-engine-",0,0,-1,-1
+9,0,l,kwl,"pil-mba     ",0,0,-1,-1
+9,0,l,kwl,"ipc0000009a_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"sensor_ind  ",0,0,-1,-1
+9,0,l,kwl,"ipc0000001a_rild",0,0,-1,-1
+9,0,l,kwl,"ipc00000007_thermal-engine-",0,0,-1,-1
+9,0,l,kwl,"event0-715  ",0,0,-1,-1
+9,0,l,kwl,"ipc00000092_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"ipc0000003c_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"            ",0,0,-1,-1
+9,0,l,kwl,"ipc0000001f_thermal-engine-",0,0,-1,-1
+9,0,l,kwl,"taiko-slim-pgd",0,0,-1,-1
+9,0,l,kwl,"usb         ",0,0,-1,-1
+9,0,l,kwl,"ipc00000014_sensors.qcom",0,0,-1,-1
+9,0,l,kwl,"smdcntl3    ",0,0,-1,-1
+9,0,l,kwl,"pil-adsp    ",0,0,-1,-1
+9,0,l,kwl,"ipc0000002c_sensors.qcom",0,0,-1,-1
+9,0,l,pws,3450,0.0791,0,0
+9,0,l,pwi,scrn,0.0759,1,0,0
+9,0,l,pwi,idle,0.00267,1,0,0
+9,0,l,pwi,cell,0.000374,1,0,0
+9,1000,l,pwi,uid,0.000215,1,0,0
+9,1000,l,ua,1,0,0,0
+9,1000,l,awl,0,0
+9,1000,l,wl,ActivityManager-Sleep,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,1000,l,wl,WifiSuspend,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,1000,l,wl,*alarm*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,1000,l,wl,PhoneWindowManager.mPowerKeyWakeLock,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,1000,l,wl,*vibrator*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,1000,l,wl,*launch*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,1000,l,wl,NetworkStats,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,1000,l,wl,*location*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,1000,l,wl,GnssLocationProvider,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,1000,l,wl,startDream,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,1000,l,wl,SyncLoopWakeLock,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,1000,l,sr,0,1347,0,0,1347,0
+9,1000,l,sr,1,1347,0,0,1347,0
+9,1000,l,st,0,0,1347,0,0,0,0
+9,1001,l,awl,0,0
+9,1001,l,wl,*alarm*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,1001,l,wl,*telephony-radio*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,1001,l,st,0,0,1347,0,0,0,0
+9,1027,l,awl,0,0
+9,1027,l,wl,NfcService:mRoutingWakeLock,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,1027,l,st,0,0,1347,0,0,0,0
+9,1041,l,awl,0,0
+9,1041,l,wl,AudioMix,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,1068,l,awl,0,0
+9,1068,l,st,0,0,1347,0,0,0,0
+9,10011,l,awl,0,0
+9,10011,l,wl,*launch*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10014,l,awl,0,0
+9,10014,l,st,0,0,0,0,0,0,1347
+9,10015,l,awl,0,0
+9,10015,l,st,0,0,0,15,0,0,1332
+9,10016,l,awl,0,0
+9,10016,l,wl,*launch*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10016,l,st,0,0,1347,0,0,0,0
+9,10021,l,awl,0,0
+9,10021,l,wl,*alarm*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10021,l,wl,GestureWakeLock,0,f,0,-1,-1,-1,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10021,l,wl,*vibrator*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10021,l,wl,show keyguard,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10021,l,wl,Doze,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10021,l,wl,Scrims,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10021,l,st,0,0,1347,0,0,0,0
+9,10021,l,apk,0,com.android.systemui,com.android.systemui.doze.DozeService,0,0,1
+9,10022,l,awl,0,0
+9,10022,l,wl,*job*/com.google.android.partnersetup/.InstalledAppJobService,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10022,l,wl,*alarm*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10022,l,st,0,0,0,0,0,0,1347
+9,10024,l,awl,0,0
+9,10024,l,wl,*net_scheduler*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,wl,wake:com.google.android.gms/com.google.android.libraries.social.mediamonitor.MediaMonitorIntentService,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,wl,GCoreFlp,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,wl,NlpWakeLock,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,wl,*alarm*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,wl,*sync*/com.google.android.gms.fitness/com.google/nazmul.cste07@gmail.com,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,wl,*job*/com.google.android.gms.fitness/com.google/n.haq.dl@gmail.com:android,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,wl,Wakeful StateMachine: GeofencerStateMachine,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,wl,IntentOp:.common.broadcast.BackgroundBroadcastReceiverSupport$PersistentReceiverIntentOperation,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,wl,GCM_READ,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,wl,GCMSEND,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,wl,*sync*/com.google.android.gms.fitness/com.google/n.haq.dl@gmail.com,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,wl,GCM_HB_ALARM,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,wl,NlpCollectorWakeLock,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,wl,*job*/com.google.android.gms.fitness/com.google/nazmul.cste07@gmail.com:android,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,wl,*telephony-radio*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,wl,wake:com.google.android.gms/com.google.android.libraries.social.autobackup.FingerprintScannerIntentService,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,wl,wake:CollectionChimeraSvc,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,wl,IntentOp:.common.broadcast.BackgroundBroadcastReceiverSupport$GmsReceiverIntentOperation,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,wl,*location*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,wl,UlrDispSvcSlowWL,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,wl,fingerprint_scanner_local,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,wl,CMWakeLock,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,wl,ULR_BarometerReading_WakeLock,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,wl,UlrDispSvcFastWL,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10024,l,st,0,0,1347,0,0,0,0
+9,10024,l,apk,0,com.google.android.gms,com.google.android.libraries.social.autobackup.FingerprintScannerIntentService,84,1,1
+9,10031,l,awl,0,0
+9,10031,l,wl,*net_scheduler*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10031,l,wl,SyncFirebaseRootTrace -> SyncFirebaseJob,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10031,l,st,0,0,0,0,0,0,1347
+9,10033,l,awl,0,0
+9,10033,l,st,0,0,0,0,0,0,1347
+9,10040,l,awl,0,0
+9,10040,l,wl,*vibrator*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10040,l,wl,FileOperationService,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10040,l,wl,*launch*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10042,l,awl,0,0
+9,10042,l,wl,*vibrator*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10042,l,wl,*launch*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10042,l,fg,1347,0
+9,10042,l,st,0,0,0,0,0,0,1347
+9,10048,l,awl,0,0
+9,10048,l,st,0,0,1347,0,0,0,0
+9,10061,l,awl,0,0
+9,10061,l,wl,*net_scheduler*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10065,l,awl,0,0
+9,10065,l,st,0,0,1347,0,0,0,0
+9,10073,l,awl,0,0
+9,10073,l,st,0,0,0,0,0,0,1347
+9,10074,l,awl,0,0
+9,10074,l,st,0,0,1347,0,0,0,0
+9,10075,l,awl,0,0
+9,10075,l,wl,*alarm*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10075,l,wl,*launch*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10075,l,st,0,0,0,0,0,0,1347
+9,10077,l,awl,0,0
+9,10077,l,wl,*job*/com.imo.android.imoim/.network.MyJobService,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10077,l,wl,*alarm*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10077,l,wl,*sync*/com.imo.android.imoim.syncadapter.stubprovider/com.imo.android.imoim/imo,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10077,l,wl,*job*/com.imo.android.imoim.syncadapter.stubprovider/com.imo.android.imoim/imo:android,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10077,l,st,0,0,0,0,0,0,1347
+9,10079,l,awl,0,0
+9,10079,l,wl,GOOGLE_C2DM,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10082,l,awl,0,0
+9,10082,l,wl,*sync*/com.android.chrome/com.google/nazmul.cste07@gmail.com,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10082,l,wl,*job*/com.android.chrome/com.google/nazmul.cste07@gmail.com:android,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10082,l,wl,GOOGLE_C2DM,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10082,l,wl,*alarm*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10082,l,wl,AudioMix,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10082,l,wl,*vibrator*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10082,l,wl,*launch*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10082,l,wl,*telephony-radio*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10082,l,wl,WindowManager,0,f,0,-1,-1,-1,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10082,l,wl,*job*/com.android.chrome/org.chromium.components.background_task_scheduler.BackgroundTaskJobService,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10082,l,wl,*job*/com.android.chrome/com.google/n.haq.dl@gmail.com:android,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10087,l,awl,0,0
+9,10087,l,wl,*alarm*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10087,l,wl,*location*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10091,l,awl,0,0
+9,10091,l,wl,*alarm*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10091,l,wl,orca_notification_clearFriendInstall,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10091,l,wl,*launch*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10091,l,wl,orca_notification_notifyFolderCounts,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10091,l,wl,orca_notification_clearThreadNotification,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10091,l,wl,*job*/com.facebook.orca/com.facebook.browser.lite.BrowserLiteIntentService,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10091,l,wl,*job*/com.facebook.orca/com.facebook.conditionalworker.ConditionalWorkerService,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10091,l,st,0,0,0,0,0,0,1347
+9,10094,l,awl,0,0
+9,10094,l,wl,*job*/com.facebook.katana/com.facebook.analytics2.logger.LollipopUploadService,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10094,l,wl,*alarm*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10094,l,wl,*job*/com.facebook.katana/com.facebook.conditionalworker.ConditionalWorkerService,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10094,l,wl,AudioMix,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10094,l,wl,*job*/com.facebook.katana/com.facebook.browser.lite.BrowserLiteIntentService,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10094,l,wl,*launch*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10094,l,wl,*job*/com.facebook.katana/com.facebook.attribution.AttributionIdService,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10094,l,wl,WindowManager,0,f,0,-1,-1,-1,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10094,l,fg,1347,0
+9,10094,l,st,1347,0,0,0,0,0,0
+9,10094,l,apk,0,com.facebook.katana,com.facebook.mqttlite.MqttService,0,0,1
+9,10095,l,awl,0,0
+9,10095,l,wl,*net_scheduler*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10095,l,wl,GOOGLE_C2DM,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10095,l,wl,com.viber.voip.backup.auto.service.AutoBackupService,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10095,l,st,0,0,0,0,0,0,1347
+9,10100,l,awl,0,0
+9,10100,l,wl,*launch*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10102,l,awl,0,0
+9,10102,l,wl,*job*/com.zoho.mail.zanalyticsprovider/com.zoho.mail.zanalytics/Zoho Mail Data Sync:android,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10102,l,wl,*alarm*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10108,l,awl,0,0
+9,10108,l,wl,GCoreFlp,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10108,l,wl,NlpWakeLock,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10108,l,wl,*alarm*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10108,l,wl,*launch*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10108,l,wl,NlpCollectorWakeLock,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10108,l,wl,WindowManager,0,f,0,-1,-1,-1,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10121,l,awl,0,0
+9,10121,l,st,0,0,0,1347,0,0,0
+9,10123,l,awl,0,0
+9,10123,l,wl,GOOGLE_C2DM,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10123,l,wl,AudioMix,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10123,l,wl,*vibrator*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10123,l,wl,*launch*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10123,l,wl,,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10123,l,wl,com.beint.zangi.ZangiApplication,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10123,l,wl,WindowManager,0,f,0,-1,-1,-1,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10123,l,st,0,0,0,0,0,0,1347
+9,10132,l,awl,0,0
+9,10132,l,wl,*alarm*,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10132,l,wl,*job*/com.durbinlabs.ducomm.link3/me.pushy.sdk.services.PushyJobService,0,f,0,0,0,0,0,p,0,0,0,0,0,bp,0,0,0,0,0,w,0,0,0,0
+9,10132,l,st,0,0,0,0,0,0,1347

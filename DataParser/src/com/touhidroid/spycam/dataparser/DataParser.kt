@@ -10,7 +10,9 @@ import kotlin.collections.ArrayList
 
 class DataParser {
     companion object {
-        private val PACKAGE_NAMES = arrayOf("com.bangladesharmy", "com.imo.android.imoim", "com.whatsapp",
+        private val PACKAGE_NAMES = arrayOf(
+                "com.brilliant.connect.com.bd", "org.linphone", "com.bangladesharmy",
+                "com.imo.android.imoim", "com.whatsapp",
                 "com.facebook.orca", "com.google.android.talk")
 
         /**
